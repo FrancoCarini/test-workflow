@@ -1,3 +1,4 @@
 Aca iria el navbar que estoy haciendo
 Este es el agregado que le hace al navbar el user 2
 Este es el index
+Aca va mi pricing Table
